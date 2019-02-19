@@ -58,6 +58,7 @@ html {
   font-weight: 700;
   text-transform: uppercase;
   transition: all 0.3s ease-in-out;
+  outline: none;
 }
 .title__button:hover {
   cursor: pointer;
